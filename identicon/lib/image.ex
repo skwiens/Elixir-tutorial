@@ -1,5 +1,5 @@
 defmodule Identicon.Image do
-  defstruct hex: nil
+  defstruct hex: nil, color: nil
 end
 
 # A struct is like a map with two additional features
